@@ -1,0 +1,115 @@
+Grading at Mon May  4 21:42:14 UTC 2020
+**Testing broken implementation 10 **
+-------------------------------------
+
+Sin Match! Valores: 2 Esperado: 4. 
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 59049 Esperado: 59049. 
+Sin Match! Valores: 8 Esperado: 1000. 
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+Sin Match! Valores: 1 Esperado: 4. 
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Sin Match! Valores: 1 Esperado: 0. 
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Match!! Res: 1 Esperado: 1. 
+Sin Match! Valores: 0 Esperado: 1. 
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 59049 Esperado: 59049. 
+Match!! Res: 1000 Esperado: 1000. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 4294967295 Esperado: 4294967295. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 27 Esperado: 27. 
+Match!! Res: 256 Esperado: 256. 
+Sin Match! Valores: 761 Esperado: 9765625. 
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+Sin Match! Valores: 2 Esperado: 4. 
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Sin Match! Valores: 2 Esperado: 1. 
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+Sin Match! Valores: 9 Esperado: 4. 
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 1 Esperado: 1. 
+Sin Match! Valores: 30 Esperado: 59049. 
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+Sin Match! Valores: 0 Esperado: 4. 
+
+**Testing correct implementation **
+-------------------------------------
+
+Match!! Res: 4 Esperado: 4. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 59049 Esperado: 59049. 
+Match!! Res: 1000 Esperado: 1000. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 4294967295 Esperado: 4294967295. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 27 Esperado: 27. 
+Match!! Res: 256 Esperado: 256. 
+Match!! Res: 9765625 Esperado: 9765625. 
+Match!! Res: 1 Esperado: 1. 
+Match!! Res: 0 Esperado: 0. 
+Match!! Res: 16 Esperado: 16. 
+
+All tests were ok.
+
+
+Overall Grade: PASSED
